@@ -1,5 +1,6 @@
 *
 !.gitignore
+!vercel.json
 !full_stack/
 !full_stack/**
 
