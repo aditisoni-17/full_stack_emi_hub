@@ -1,0 +1,12 @@
+*
+!.gitignore
+!full_stack/
+!full_stack/**
+
+# Sensitive/local files
+full_stack/**/.env
+full_stack/**/.env.*
+full_stack/**/node_modules/
+full_stack/**/dist/
+full_stack/**/.DS_Store
+full_stack/**/*.log
